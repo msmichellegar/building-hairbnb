@@ -161,3 +161,52 @@ A media query looks like this:
 ```
 
 That sets the font size of an h1 to be only 50px when the screen is less than 700px wide. You just pop that in anywhere in your CSS document.
+
+Here is a set of media queries that will make your Hairbnb site mobile-responsive. They include some new properties that you haven't seen, such as setting elements not to display `display: none;` and using a special selector to only grab the first element of a type `:first-of-type`. Add these media queries to the end of your CSS file.
+
+```css
+@media (max-width: 700px) {
+
+    header ul {
+        display: none;
+    }
+
+    footer {
+        height: 250px;
+    }
+
+    .footer-block {
+        display: none;
+    }
+
+    .footer-block:first-of-type {
+        display: block;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .footer-block h5 {
+        display: none;
+    }
+
+    .footer-block li {
+        margin: 0 5px;
+        display: inline-block;
+    }
+
+}
+```
+
+#### Step 5: Deploy!
+
+Now we're making it live. You are going to be deploying the site with [GitHub pages](https://pages.github.com/), which basically means GitHub will host the website for us.
+
+On GitHub, create a new public repository called "hairbnb" (or a short, memorable name you'd like to call it). Instructions for creating a repo are [here](https://help.github.com/articles/create-a-repo/).
+
+Now navigate to this repository on your account. Create a "branch" called "gh-pages" (it's important that you type this exactly). Instructions for doing that are [here](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/).
+
+Now upload your `index.html` and `main.css` files into the repository by clicking "Upload Files" and dragging them onto the screen. Instructions for that are [here](https://github.com/blog/2105-upload-files-to-your-repositories).
+
+In a minute, your site should be live! Visit the url [yourgithubname].github.io/[repositoryname] to see it in action.
+
+Good work :)
