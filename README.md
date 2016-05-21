@@ -18,8 +18,8 @@ We're using different images to the real Airbnb site. I have created a series of
 
 ###### Image Links
 
-Logo: https://dl.dropboxusercontent.com/u/297682547/Hairbnb/logo.png
-Header background: https://dl.dropboxusercontent.com/u/297682547/Hairbnb/header/nyc.jpg
+* Logo: https://dl.dropboxusercontent.com/u/297682547/Hairbnb/logo.png
+* Header background: https://dl.dropboxusercontent.com/u/297682547/Hairbnb/header/nyc.jpg
 
 #### Colours
 
