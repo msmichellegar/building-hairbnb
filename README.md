@@ -16,6 +16,11 @@ You won't be making any actual design decisions as I've prepared all the assets,
 
 We're using different images to the real Airbnb site. I have created a series of assets ready for you to insert into the site, which you can find [here](https://www.dropbox.com/sh/8snzlcegjn58fsx/AAABuEyeJt7piv8UPil9jsPQa?dl=0).
 
+###### Image Links
+
+Logo: https://dl.dropboxusercontent.com/u/297682547/Hairbnb/logo.png
+Header background: https://dl.dropboxusercontent.com/u/297682547/Hairbnb/header/nyc.jpg
+
 #### Colours
 
 We're going to use the same colours as the Airbnb website, which are as follows:
