@@ -33,6 +33,7 @@ We're using different images to the real Airbnb site. I have created a series of
 * World (Paris): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/world/paris.png
 * World (Provence): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/world/provence.png
 * World (Tuscany): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/world/tuscany.png
+* Footer: https://dl.dropboxusercontent.com/u/297682547/Hairbnb/footer.png
 
 #### Colours
 
