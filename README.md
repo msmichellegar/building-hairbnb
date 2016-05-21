@@ -25,6 +25,14 @@ We're using different images to the real Airbnb site. I have created a series of
 * Weekend (Byron): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/weekend/byron.png
 * Weekend (Brisbane): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/weekend/brisbane.png
 * Weekend (Katoomba): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/weekend/katoomba.png
+* World (Bali): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/world/bali.png
+* World (Bangkok): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/world/bangkok.png
+* World (Honolulu): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/world/honolulu.png
+* World (London): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/world/london.png
+* World (NYC): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/world/nyc.png
+* World (Paris): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/world/paris.png
+* World (Provence): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/world/provence.png
+* World (Tuscany): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/world/tuscany.png
 
 #### Colours
 
