@@ -20,6 +20,11 @@ We're using different images to the real Airbnb site. I have created a series of
 
 * Logo: https://dl.dropboxusercontent.com/u/297682547/Hairbnb/logo.png
 * Header background: https://dl.dropboxusercontent.com/u/297682547/Hairbnb/header/nyc.jpg
+* Weekend (Melbourne): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/weekend/melbourne.png
+* Weekend (Broome): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/weekend/broome.png
+* Weekend (Byron): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/weekend/byron.png
+* Weekend (Brisbane): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/weekend/brisbane.png
+* Weekend (Katoomba): https://dl.dropboxusercontent.com/u/297682547/Hairbnb/weekend/katoomba.png
 
 #### Colours
 
